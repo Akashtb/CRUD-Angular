@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Akash ",
+      "lastName": "T B",
+      "email": "akashtb21@gmail.com",
+      "phno": "88122345678",
+      "salary": "300000"
+    },
+    {
+      "id": 2,
+      "firstName": "sheena",
+      "lastName": "T K",
+      "email": "sheenabaiju805@gmail.com",
+      "phno": "8891231549",
+      "salary": "400000"
+    },
+    {
+      "id": 3,
+      "firstName": "Adwaith ",
+      "lastName": "Baiju",
+      "email": "adwaithbaiju06@gmail.com",
+      "phno": "730637124",
+      "salary": "200000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
